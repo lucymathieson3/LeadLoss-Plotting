@@ -26,7 +26,7 @@ These scripts include functionality for plotting histograms, KDEs, CDFs, and per
    - Reports peak positions and uncertainties for different ranges.
 
 4. **penalisationcomparison.py**  
-   - Compares penalized and non-penalized Pb-loss age models.
+   - Compares penalised and non-penalised Pb-loss age models.
    - Generates overlaid histograms and KDEs, including uncertainty visualizations.
    - Outputs variance, standard deviation, and confidence intervals for both models.
 
